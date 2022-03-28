@@ -11,7 +11,7 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 ## Resources
 -Date Source: elction_results.csv
--Software: Python 3.6.1, Visual Stud Code, 1.38.1
+-Software: Python 3.9.7, Visual Stud Code, 1.65.2
 
 ## Summary
 The annalists of the election show that:
