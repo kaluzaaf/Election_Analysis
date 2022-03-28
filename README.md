@@ -29,7 +29,8 @@ The annalists of the election show that:
  
  ## Challenge Overview
  ![Election_Results](https://user-images.githubusercontent.com/100163289/160324493-e6e69b7b-1eea-4169-95cf-55824c14f152.png)
- [Election_Code.txt](https://github.com/kaluzaaf/Election_Analysis/files/8359577/Election_Code.txt)
+[Election_Code.pdf](https://github.com/kaluzaaf/Election_Analysis/files/8359606/Election_Code.pdf)
+
 
  ## Challenge Summary
 The project provided the opportunity for me to analyze a large data set in order to gain a better understanding about a local election in Colorado. I was able to glean insights by using python to categorize the number and percentage of votes by county and candidate. This allowed the outcome of the election to be quickly certified by the election commission because it allowed the winner to be quickly identified. Additionally, the commission could use my analysis to ensure the number of votes cast in each of the three countries equals the number of votes cast for the three candidates. As a result, the commission can now declare Diana DeGette the winner of the election.
